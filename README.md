@@ -1,2 +1,1 @@
-# MyFinalProject
-1st repo
+User Manual
