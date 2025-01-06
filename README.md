@@ -10,7 +10,7 @@ Main Menu Options:
 
 	- Add tasks and define dependencies.
  
-	- (!)Optionally you can generate Task Dependency Graph (Yes, you can have a nice visualisation! :D)
+	- (!)Optionally you can generate Task Dependency Graph (Yes, you can have a nice picture, be sure to check this out! :D)
 	
 2.Stack & Queue Operations
 
