@@ -1,8 +1,11 @@
 User Manual
+
 Overview
+
 This is my final project for the Advanced Data Structures subject. The application is menu-driven, allowing users to explore each component seamlessly. Interface is user-friendly and intuitively understandable.
 
 Main Menu Options:
+
 1.Graph-Based Task Management:
 	- Add tasks and define dependencies.
 	- (!)Optionally you can generate Task Dependency Graph (Yes, you can have a nice visualisation! :D)
